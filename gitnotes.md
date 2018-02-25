@@ -13,3 +13,4 @@ These are my notes on Git.
 ### Tracking Changes
 
 * `git diff`: shows changes not yet tracked
+* `git log`: shows each commit
