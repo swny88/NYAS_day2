@@ -12,5 +12,4 @@ These are my notes on Git.
 
 ### Tracking Changes
 
-now what
-making another change
+* `git diff`: shows changes not yet tracked
