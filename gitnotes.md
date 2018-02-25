@@ -2,15 +2,14 @@
 
 These are my notes on Git.
 
-```
-git init
-```
 
-This is `inline code`.
+* `git init`: initializes repository
+* `git status`: tells us status of repo
+* `git add`: adds files to be tracked
+* `git commit`: dedicates to a version
 
+---
 
-<h2>This is an HTML header</h2>
+### Tracking Changes
 
-$$f(x) = x^2$$
-
-$f(x) = x^2$
+now what
